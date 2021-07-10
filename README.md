@@ -25,4 +25,9 @@ Given the goods description data in the customs declaration, we need to identify
 Entity label | Description
 ---|---
 BRAND | Vehicle brand name <br />Example: Mercedes, Honda
-`vinai/phobert-large` | 370M
+TYPE | Type of Vehicle <br />Example: ô tô con, ô tô tải
+NAME | The name of the vehicle <br />Example: GLS400 4Matic, maybach s600
+ENGINE FULE TYPE | Engine type and fuel <br />Example: xăng, diezel
+ENGINE FULE TYPE | Vehicle release year <br />Example: 2015, 2016, 2020
+STATUS | Vehicle's status <br />Example: đã qua sử dụng<br />chưa qua sử dụng<br />mới 100%
+BRAND | Vehicle brand name <br />Example: Mercedes, Honda
