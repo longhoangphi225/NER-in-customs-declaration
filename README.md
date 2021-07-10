@@ -17,3 +17,12 @@ Data has 3 colums:
 
 ![alt text](https://github.com/longhoangphi225/NER-in-customs-declaration/blob/main/data.png)
 
+# <a name="NEs"></a> Named-Entities description
+
+Given the goods description data in the customs declaration, we need to identify the following entities:
+
+
+Entity label | Description
+---|---
+BRAND | Vehicle brand name <br />Example: Mercedes, Honda
+`vinai/phobert-large` | 370M
