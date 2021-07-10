@@ -31,3 +31,7 @@ ENGINE FULE TYPE | Engine type and fuel <br />Example: xăng, diezel
 ENGINE FULE TYPE | Vehicle release year <br />Example: 2015, 2016, 2020
 STATUS | Vehicle's status <br />Example: đã qua sử dụng<br />chưa qua sử dụng<br />mới 100%
 BRAND | Vehicle brand name <br />Example: Mercedes, Honda
+
+# <a name="compare"></a> Named-Entities description
+
+Both `BERT` and `PhoBERT` models give very high results, see report for more details.
